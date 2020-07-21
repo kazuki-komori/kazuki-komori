@@ -4,8 +4,8 @@ on:
   push:
     branches: master
   schedule:
-    # 15分おきに動作
-    - cron: '*/15 * * * *'
+    # 東京時間で 0時に更新
+    - cron: '0 15 * * *'
 
 jobs:
   update-readme:
