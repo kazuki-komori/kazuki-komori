@@ -2,7 +2,7 @@
 
 Hi! :satisfied: Thanks for reading my introduction!
 
-Fronted and Backend Engineer in Japan :jp:
+I'm Frontend Developper in Japan :jp:
 
 ## :pushpin: Features
 :herb: Love Vue.js and Vuetify
