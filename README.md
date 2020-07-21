@@ -12,6 +12,9 @@
   </a>
 </p>
 
+![Update stats](https://github.com/kazuki-komori/kazuki-komori/workflows/Update%20stats/badge.svg?branch=master)
+<a href="https://www.twitter.com/D_kazuyan">
+<img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
 
 Hi! :satisfied: Thanks for reading my introduction!
 
