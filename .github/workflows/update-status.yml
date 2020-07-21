@@ -4,7 +4,6 @@ on:
   schedule:
     # 15分おきに動作
     - cron: '*/15 * * *'
-  workflow_dispatch:
 
 jobs:
   update-readme:
