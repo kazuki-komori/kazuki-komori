@@ -1,16 +1,24 @@
-### Hi there 👋
+## Kazuki-Komori
 
-<!--
-**kazuki-komori/kazuki-komori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! :satisfied: Thanks for reading my introduction!
 
-Here are some ideas to get you started:
+Fronted and Backend Engineer in Japan :jp:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :pushpin: Features
+:herb: Love Vue.js and Vuetify
+
+:office: Developing at chatbox-inc in Osaka
+
+:black_nib: Learning Statistic and Machine Learning on my University (Doshisha Univ in Kyoto)
+
+:green_heart: Translating and maintenance [Nuxt.js Docs](https://github.com/nuxt/docs)
+
+:airplane: [Here](https://kazuki-komori.tk) is my Portfolio (Written in JP :jp:)
+
+## :green_apple: Contribute
+
+:bird: Follow me on Twitter (@D_kazuyan)
+
+## Last Updated 
+
+:calendar: 2020 / 7 / 7
