@@ -9,7 +9,7 @@
 
 Hi! :satisfied: Thanks for reading my introduction!
 
-I'm Frontend Developper in Japan :jp:
+I'm Frontend Developer in Japan :jp:
 
 ## :pushpin: Features
 :herb: Love Vue.js and Vuetify
