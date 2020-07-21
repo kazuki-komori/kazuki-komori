@@ -20,7 +20,7 @@ I'm Frontend Developper in Japan :jp:
 
 :green_heart: Translating and maintenance [Nuxt.js Docs](https://github.com/nuxt/docs)
 
-:airplane: [Here](https://kazuki-komori.tk) is my Portfolio (Written in JP :jp:)
+:airplane: [Here](https://kazuki-komori.tk) is my Portfolio (Written in ja :jp:)
 
 https://kazuki-komori.tk
 
