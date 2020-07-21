@@ -1,3 +1,10 @@
+<table>
+  <tr>
+    <td>Total visitors</td>
+    <td><img src="https://profile-counter.glitch.me/kazuki-komori/count.svg" alt="" /></td>
+  </tr>
+</table>
+
 ## Kazuki-Komori
 
 Hi! :satisfied: Thanks for reading my introduction!
@@ -15,9 +22,11 @@ I'm Frontend Developper in Japan :jp:
 
 :airplane: [Here](https://kazuki-komori.tk) is my Portfolio (Written in JP :jp:)
 
+https://kazuki-komori.tk
+
 ## :green_apple: Contribute
 
-:bird: Follow me on Twitter (@D_kazuyan)
+:bird: Follow me on Twitter ([@D_kazuyan](https://twitter.com/D_kazuyan))
 
 ## Last Updated 
 
