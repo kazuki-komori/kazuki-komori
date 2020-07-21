@@ -40,6 +40,10 @@ https://kazuki-komori.tk
 
 :bird: Follow me on Twitter ([@D_kazuyan](https://twitter.com/D_kazuyan))
 
+:octocat: Follow me on Github !
+
+:star: If you like my profile, please Give me a Star !!
+
 ## 📊 **Weekly Development**
 <!--START_SECTION:waka-->
 ```text
