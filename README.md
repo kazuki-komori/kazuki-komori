@@ -21,4 +21,4 @@ I'm Frontend Developper in Japan :jp:
 
 ## Last Updated 
 
-:calendar: 2020 / 7 / 7
+:calendar: 2020 / 7 / 21
