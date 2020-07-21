@@ -3,7 +3,7 @@ name: Update stats
 on:
   schedule:
     # 15分おきに動作
-    - cron: '*/15 * * *'
+    - cron: '*/15 * * * *'
 
 jobs:
   update-readme:
