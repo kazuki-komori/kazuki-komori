@@ -6,6 +6,12 @@
 </table>
 
 ## Kazuki-Komori
+<p align="center" >
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+  <img  src="https://github-readme-stats.vercel.app/api?username=kazuki-komori&&show_icons=true&theme=tokyonight&text_color=41B883&title_color=57B6F3"/>
+  </a>
+</p>
+
 
 Hi! :satisfied: Thanks for reading my introduction!
 
@@ -26,7 +32,14 @@ https://kazuki-komori.tk
 
 ## :green_apple: Contribute
 
+<a href="https://www.twitter.com/D_kazuyan">
+<img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
+
 :bird: Follow me on Twitter ([@D_kazuyan](https://twitter.com/D_kazuyan))
+
+## 📊 **Weekly Development**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## Last Updated 
 
