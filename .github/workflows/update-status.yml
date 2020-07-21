@@ -1,6 +1,8 @@
 name: Update stats
 
 on:
+  push:
+    branches: master
   schedule:
     # 15分おきに動作
     - cron: '*/15 * * * *'
