@@ -47,9 +47,7 @@ https://kazuki-komori.tk
 ## 📊 **Weekly Development**
 <!--START_SECTION:waka-->
 ```text
-Week: 13 July, 2020 - 20 July, 2020
-
-
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
