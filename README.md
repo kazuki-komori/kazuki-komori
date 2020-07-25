@@ -9,6 +9,7 @@
 <p align="center" >
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
   <img  src="https://github-readme-stats.vercel.app/api?username=kazuki-komori&&show_icons=true&theme=tokyonight&text_color=41B883&title_color=57B6F3"/>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kazuki-komori&hide_langs_below=.25&theme=tokyonight&text_color=41B883&title_color=57B6F3">
   </a>
 </p>
 
@@ -20,7 +21,7 @@ Hi! :satisfied: Thanks for reading my introduction!
 
 I'm Frontend Developer in Japan :jp:
 
-**Mainly Languages and Tools:**  
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Mainly Languages and Tools:**  
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -31,7 +32,7 @@ I'm Frontend Developer in Japan :jp:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-**Lightly Languages and Tools:** 
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  **Lightly Languages and Tools:** 
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
