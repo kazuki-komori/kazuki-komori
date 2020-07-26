@@ -19,7 +19,7 @@
 
 Hi! :satisfied: Thanks for reading my introduction!
 
-I'm Frontend Developer in Japan :jp:
+I'm Web Developer in Japan :jp:
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Mainly Languages and Tools:**  
 
