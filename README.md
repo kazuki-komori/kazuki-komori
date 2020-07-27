@@ -6,6 +6,9 @@
 </table>
 
 ## Kazuki-Komori
+
+<img src='https://projecteuler.net/profile/kazuki-komori.png'>
+
 <p align="center" >
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
   <img  src="https://github-readme-stats.vercel.app/api?username=kazuki-komori&&show_icons=true&theme=tokyonight&text_color=41B883&title_color=57B6F3"/>
