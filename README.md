@@ -72,7 +72,7 @@ https://kazuki-komori.tk
 ## 📊 **Weekly Development**
 <!--START_SECTION:waka-->
 ```text
-Week: 28 September, 2020 - 05 October, 2020
+Week: 29 September, 2020 - 06 October, 2020
 
 Vue.js       3 hrs 5 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.37 % 
 TypeScript   2 hrs 52 mins   █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
