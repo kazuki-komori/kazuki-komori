@@ -72,7 +72,7 @@ https://kazuki-komori.tk
 ## 📊 **Weekly Development**
 <!--START_SECTION:waka-->
 ```text
-Week: 07 November, 2020 - 14 November, 2020
+Week: 08 November, 2020 - 15 November, 2020
 
 TeX          6 hrs 41 mins   ████████████▒░░░░░░░░░░░░   49.50 % 
 Python       2 hrs 25 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.92 % 
