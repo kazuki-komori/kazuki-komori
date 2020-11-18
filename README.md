@@ -75,11 +75,11 @@ https://kazuki-komori.tk
 ```text
 Week: 10 November, 2020 - 17 November, 2020
 
-TeX          6 hrs 41 mins   ████████████▒░░░░░░░░░░░░   49.50 % 
-Python       2 hrs 25 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.92 % 
-Vue.js       2 hrs 5 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-TypeScript   1 hr 47 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-JavaScript   24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+JavaScript   3 hrs 56 mins   ███████░░░░░░░░░░░░░░░░░░   27.72 % 
+Vue.js       3 hrs 4 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.69 % 
+Java         2 hrs 32 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.88 % 
+TeX          1 hr 7 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+Python       1 hr            █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
 ```
 <!--END_SECTION:waka-->
 
