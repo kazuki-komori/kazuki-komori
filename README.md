@@ -73,7 +73,7 @@ https://kazuki-komori.tk
 ## 📊 **Weekly Development**
 <!--START_SECTION:waka-->
 ```text
-Week: 15 November, 2020 - 22 November, 2020
+Week: 16 November, 2020 - 23 November, 2020
 
 JavaScript   3 hrs 56 mins   ███████░░░░░░░░░░░░░░░░░░   27.72 % 
 Vue.js       3 hrs 4 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.69 % 
