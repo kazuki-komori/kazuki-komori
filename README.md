@@ -15,6 +15,9 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kazuki-komori&hide_langs_below=.25&theme=tokyonight&text_color=41B883&title_color=57B6F3">
   </a>
 </p>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=komokazu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ![Update stats](https://github.com/kazuki-komori/kazuki-komori/workflows/Update%20stats/badge.svg?branch=master)
 <a href="https://www.twitter.com/D_kazuyan">
@@ -85,4 +88,4 @@ JSON         36 mins         █░░░░░░░░░░░░░░░░
 
 ## Last Updated 
 
-:calendar: 2020 / 7 / 21
+:calendar: 2020 / 12 / 19
