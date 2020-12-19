@@ -15,9 +15,9 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kazuki-komori&hide_langs_below=.25&theme=tokyonight&text_color=41B883&title_color=57B6F3">
   </a>
 </p>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=komokazu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kazuki-komori&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Update stats](https://github.com/kazuki-komori/kazuki-komori/workflows/Update%20stats/badge.svg?branch=master)
 <a href="https://www.twitter.com/D_kazuyan">
@@ -76,13 +76,13 @@ https://kazuki-komori.tk
 ## 📊 **Weekly Development**
 <!--START_SECTION:waka-->
 ```text
-Week: 11 December, 2020 - 18 December, 2020
+Week: 10 December, 2020 - 17 December, 2020
 
-Python       3 hrs 11 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.18 % 
-Markdown     2 hrs 56 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.75 % 
-YAML         2 hrs 7 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
-TeX          1 hr 58 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-TypeScript   1 hr 53 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+TypeScript   4 hrs 55 mins   ████████▒░░░░░░░░░░░░░░░░   33.58 % 
+TeX          4 hrs 32 mins   ███████▓░░░░░░░░░░░░░░░░░   30.97 % 
+Vue.js       2 hrs 45 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.81 % 
+JavaScript   1 hr 43 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+JSON         36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
 ```
 <!--END_SECTION:waka-->
 
