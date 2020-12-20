@@ -74,7 +74,7 @@ https://kazuki-komori.tk
 ## 📊 **Weekly Development**
 <!--START_SECTION:waka-->
 ```text
-Week: 11 December, 2020 - 18 December, 2020
+Week: 12 December, 2020 - 19 December, 2020
 
 Python       3 hrs 11 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.18 % 
 Markdown     2 hrs 56 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.75 % 
