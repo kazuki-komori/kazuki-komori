@@ -11,7 +11,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kazuki-komori&&show_icons=true&theme=tokyonight&text_color=41B883&title_color=57B6F3"/>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kazuki-komori&layout=compact&hide_langs_below=.25&theme=tokyonight&text_color=41B883&title_color=57B6F3" />
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kazuki-komori&layout=compact&hide_langs_below=.25&theme=tokyonight&text_color=41B883&title_color=57B6F3&hide=tex" />
   </a>
 </p>
 
