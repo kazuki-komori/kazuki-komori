@@ -76,11 +76,11 @@ https://kazuki-komori.tk
 ```text
 Week: 13 December, 2020 - 20 December, 2020
 
-TypeScript   3 hrs 29 mins   █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
-Markdown     2 hrs 52 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.96 % 
-Python       2 hrs 43 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
-YAML         2 hrs 7 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-Vue.js       1 hr 43 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
+TypeScript   8 hrs           ██████████░░░░░░░░░░░░░░░   40.00 % 
+Markdown     3 hrs 1 min     ███▓░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+Python       2 hrs 43 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+JSON         2 hrs 6 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
+JavaScript   1 hr 53 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
 ```
 <!--END_SECTION:waka-->
 
