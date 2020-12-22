@@ -74,7 +74,7 @@ https://kazuki-komori.tk
 ## 📊 **Weekly Development**
 <!--START_SECTION:waka-->
 ```text
-Week: 13 December, 2020 - 20 December, 2020
+Week: 14 December, 2020 - 21 December, 2020
 
 TypeScript   8 hrs           ██████████░░░░░░░░░░░░░░░   40.00 % 
 Markdown     3 hrs 1 min     ███▓░░░░░░░░░░░░░░░░░░░░░   15.07 % 
