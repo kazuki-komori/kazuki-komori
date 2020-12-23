@@ -15,7 +15,7 @@
   </a>
 </p>
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kazuyan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kazuyan)
 
 ![Update stats](https://github.com/kazuki-komori/kazuki-komori/workflows/Update%20stats/badge.svg?branch=master)
 <a href="https://www.twitter.com/D_kazuyan">
