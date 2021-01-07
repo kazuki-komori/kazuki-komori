@@ -74,7 +74,7 @@ https://kazuki-komori.tk
 ## 📊 **Weekly Development**
 <!--START_SECTION:waka-->
 ```text
-Week: 29 December, 2020 - 05 January, 2021
+Week: 30 December, 2020 - 06 January, 2021
 
 Vue.js       12 hrs 9 mins   ███████████████▒░░░░░░░░░   61.47 % 
 JavaScript   4 hrs 34 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.15 % 
