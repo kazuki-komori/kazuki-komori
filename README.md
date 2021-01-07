@@ -9,12 +9,7 @@
 
 <img src='https://projecteuler.net/profile/kazuki-komori.png'>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kazuki-komori&&show_icons=true&theme=tokyonight&text_color=41B883&title_color=57B6F3"/>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kazuki-komori&layout=compact&hide_langs_below=.25&theme=tokyonight&text_color=41B883&title_color=57B6F3&hide=tex" />
-  </a>
-</p>
-
+![gh_profile](https://github-readme-stats.vercel.app/api?username=kazuki-komori&&show_icons=true&theme=tokyonight&text_color=41B883&title_color=57B6F3)
 ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kazuyan&layout=compact&theme=tokyonight&text_color=41B883)
 
 ![Update stats](https://github.com/kazuki-komori/kazuki-komori/workflows/Update%20stats/badge.svg?branch=master)
