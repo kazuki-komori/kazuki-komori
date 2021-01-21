@@ -69,7 +69,7 @@ https://kazuki-komori.tk
 ## 📊 **Weekly Development**
 <!--START_SECTION:waka-->
 ```text
-Week: 12 January, 2021 - 19 January, 2021
+Week: 13 January, 2021 - 20 January, 2021
 
 Go           7 hrs 33 mins   ████████▒░░░░░░░░░░░░░░░░   33.54 % 
 Python       4 hrs 9 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.45 % 
