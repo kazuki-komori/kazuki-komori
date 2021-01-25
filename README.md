@@ -69,7 +69,7 @@ https://kazuki-komori.tk
 ## 📊 **Weekly Development**
 <!--START_SECTION:waka-->
 ```text
-Week: 16 January, 2021 - 23 January, 2021
+Week: 17 January, 2021 - 24 January, 2021
 
 TypeScript   7 hrs 11 mins   ████████████░░░░░░░░░░░░░   47.76 % 
 Markdown     3 hrs 25 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.67 % 
