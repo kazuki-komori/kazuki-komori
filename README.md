@@ -7,8 +7,6 @@
 
 ## Kazuki-Komori
 
-<img src='https://projecteuler.net/profile/kazuki-komori.png'>
-
 ![gh_profile](https://github-readme-stats.vercel.app/api?username=kazuki-komori&&show_icons=true&theme=tokyonight&text_color=41B883&title_color=57B6F3)
 ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kazuyan&layout=compact&theme=tokyonight&text_color=41B883)
 
@@ -53,19 +51,6 @@ I'm Web Developer in Japan :jp:
 
 :airplane: [Here](https://kazuki-komori.tk) is my Portfolio (Written in ja :jp:)
 
-https://kazuki-komori.tk
-
-## :green_apple: Contribute
-
-<a href="https://www.twitter.com/D_kazuyan">
-<img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
-
-:bird: Follow me on Twitter ([@D_kazuyan](https://twitter.com/D_kazuyan))
-
-:octocat: Follow me on Github !
-
-:star: If you like my profile, please Give me a Star !!
-
 ## 📊 **Weekly Development**
 <!--START_SECTION:waka-->
 ```text
@@ -81,4 +66,4 @@ TypeScript   2 hrs           █▓░░░░░░░░░░░░░░░
 
 ## Last Updated 
 
-:calendar: 2020 / 12 / 19
+:calendar: 2020 / 2 / 1
