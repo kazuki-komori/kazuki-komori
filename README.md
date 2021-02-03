@@ -7,7 +7,7 @@
 
 ## Kazuki-Komori
 
-![gh_profile](https://github-readme-stats.vercel.app/api?username=kazuki-komori&&show_icons=true&theme=tokyonight&text_color=41B883&title_color=57B6F3)
+![gh_profile](https://github-readme-stats.vercel.app/api?username=kazuki-komori&&show_icons=true&theme=tokyonight&text_color=41B883&title_color=57B6F3&count_private=true)
 ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kazuyan&layout=compact&theme=tokyonight&text_color=41B883)
 
 ![Update stats](https://github.com/kazuki-komori/kazuki-komori/workflows/Update%20stats/badge.svg?branch=master)
