@@ -54,7 +54,7 @@ I'm Web Developer in Japan :jp:
 ## 📊 **Weekly Development**
 <!--START_SECTION:waka-->
 ```text
-Week: 10 February, 2021 - 17 February, 2021
+Week: 11 February, 2021 - 18 February, 2021
 
 Vue.js       7 hrs 11 mins   █████████████▒░░░░░░░░░░░   53.53 % 
 Markdown     1 hr 54 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.22 % 
