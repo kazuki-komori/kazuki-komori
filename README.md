@@ -54,7 +54,7 @@ I'm Web Developer in Japan :jp:
 ## 📊 **Weekly Development**
 <!--START_SECTION:waka-->
 ```text
-Week: 02 March, 2021 - 09 March, 2021
+Week: 03 March, 2021 - 10 March, 2021
 
 Python       21 hrs 58 mins  █████████████████▓░░░░░░░   70.63 % 
 Vue.js       2 hrs 10 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
