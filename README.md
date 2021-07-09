@@ -55,7 +55,7 @@ I'm Web Developer in Japan :jp:
 ## 📊 **Weekly Development**
 <!--START_SECTION:waka-->
 ```text
-Week: 01 July, 2021 - 07 July, 2021
+Week: 02 July, 2021 - 08 July, 2021
 
 Python       1 hr 48 mins    █████████████████░░░░░░░░   67.40 % 
 Rust         40 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.14 % 
