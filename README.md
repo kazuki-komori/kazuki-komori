@@ -55,7 +55,7 @@ I'm Web Developer in Japan :jp:
 ## 📊 **Weekly Development**
 <!--START_SECTION:waka-->
 ```text
-Week: 14 July, 2021 - 20 July, 2021
+Week: 15 July, 2021 - 21 July, 2021
 
 Go         3 hrs 18 mins   █████████▒░░░░░░░░░░░░░░░   36.69 % 
 Markdown   3 hrs 5 mins    ████████▓░░░░░░░░░░░░░░░░   34.21 % 
