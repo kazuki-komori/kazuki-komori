@@ -55,7 +55,7 @@ I'm Web Developer in Japan :jp:
 ## 📊 **Weekly Development**
 <!--START_SECTION:waka-->
 ```text
-Week: 07 August, 2021 - 13 August, 2021
+Week: 08 August, 2021 - 14 August, 2021
 
 TypeScript   19 hrs 57 mins  ████████████████████░░░░░   79.82 % 
 Docker       1 hr 30 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
