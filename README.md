@@ -55,7 +55,7 @@ I'm Web Developer in Japan :jp:
 ## 📊 **Weekly Development**
 <!--START_SECTION:waka-->
 ```text
-Week: 12 August, 2021 - 18 August, 2021
+Week: 13 August, 2021 - 19 August, 2021
 
 Python   2 hrs 45 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.07 % 
 YAML     2 hrs 11 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.37 % 
