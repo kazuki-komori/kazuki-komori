@@ -55,7 +55,7 @@ I'm Web Developer in Japan :jp:
 ## 📊 **Weekly Development**
 <!--START_SECTION:waka-->
 ```text
-Week: 31 August, 2021 - 06 September, 2021
+Week: 01 September, 2021 - 07 September, 2021
 
 Vue.js       20 hrs 56 mins  ███████████████▓░░░░░░░░░   63.27 % 
 TypeScript   8 hrs 8 mins    ██████░░░░░░░░░░░░░░░░░░░   24.61 % 
