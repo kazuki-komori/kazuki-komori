@@ -55,9 +55,7 @@ I'm Web Developer in Japan :jp:
 ## 📊 **Weekly Development**
 <!--START_SECTION:waka-->
 ```text
-Week: 22 October, 2021 - 28 October, 2021
-
-
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
