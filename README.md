@@ -55,10 +55,7 @@ I'm Web Developer in Japan :jp:
 ## 📊 **Weekly Development**
 <!--START_SECTION:waka-->
 ```text
-Week: 14 November, 2021 - 20 November, 2021
-
-Python   2 mins          ████████████▓░░░░░░░░░░░░   50.17 % 
-Other    2 mins          ████████████▒░░░░░░░░░░░░   49.83 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
