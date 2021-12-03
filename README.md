@@ -55,7 +55,10 @@ I'm Web Developer in Japan :jp:
 ## 📊 **Weekly Development**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 26 November, 2021 - 02 December, 2021
+
+TypeScript   57 mins         ███████████████████████░░   91.79 % 
+JSON         4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
 ```
 <!--END_SECTION:waka-->
 
