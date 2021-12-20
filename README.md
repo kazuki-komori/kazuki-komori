@@ -55,7 +55,7 @@ I'm Web Developer in Japan :jp:
 ## 📊 **Weekly Development**
 <!--START_SECTION:waka-->
 ```text
-Week: 12 December, 2021 - 18 December, 2021
+Week: 13 December, 2021 - 19 December, 2021
 
 Other        4 hrs 11 mins   ██████████████▒░░░░░░░░░░   57.51 % 
 TypeScript   1 hr 11 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
