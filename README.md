@@ -55,10 +55,9 @@ I'm Web Developer in Japan :jp:
 ## 📊 **Weekly Development**
 <!--START_SECTION:waka-->
 ```text
-Week: 26 December, 2021 - 01 January, 2022
+Week: 27 December, 2021 - 02 January, 2022
 
-Python     16 mins         ███████████████████░░░░░░   75.68 % 
-Markdown   4 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.12 % 
+Markdown   4 mins          █████████████████████▓░░░   86.82 % 
 ```
 <!--END_SECTION:waka-->
 
