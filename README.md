@@ -55,7 +55,7 @@ I'm Web Developer in Japan :jp:
 ## 📊 **Weekly Development**
 <!--START_SECTION:waka-->
 ```text
-Week: 06 January, 2022 - 12 January, 2022
+Week: 07 January, 2022 - 13 January, 2022
 
 Other    25 mins         ███████████▒░░░░░░░░░░░░░   44.83 % 
 R        18 mins         ████████▒░░░░░░░░░░░░░░░░   32.99 % 
