@@ -55,7 +55,7 @@ I'm Web Developer in Japan :jp:
 ## 📊 **Weekly Development**
 <!--START_SECTION:waka-->
 ```text
-Week: 05 February, 2022 - 11 February, 2022
+Week: 06 February, 2022 - 12 February, 2022
 
 Vue.js       5 hrs 43 mins   █████████████████▒░░░░░░░   68.78 % 
 TypeScript   40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
