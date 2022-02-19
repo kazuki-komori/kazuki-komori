@@ -55,9 +55,7 @@ I'm Web Developer in Japan :jp:
 ## 📊 **Weekly Development**
 <!--START_SECTION:waka-->
 ```text
-Week: 11 February, 2022 - 17 February, 2022
-
-Total: 4 hrs 37 mins
+Week: 12 February, 2022 - 18 February, 2022
 
 TypeScript   2 hrs 41 mins   ████████████▓░░░░░░░░░░░░   50.44 % 
 SCSS         1 hr 39 mins    ███████▓░░░░░░░░░░░░░░░░░   31.06 % 
