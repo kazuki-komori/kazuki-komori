@@ -54,11 +54,14 @@ I'm Web Developer in Japan :jp:
 
 ## 📊 **Weekly Development**
 <!--START_SECTION:waka-->
-```text
-From: 18 February, 2022 - To: 25 February, 2022
 
-Other   14 mins         █████████████████████████   100.00 % 
+```text
+From: 20 February 2022 - To: 27 February 2022
+
+Vue.js           3 hrs 52 mins   ███████████████████▓░░░░░   78.79 %
+Other            14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
 ```
+
 <!--END_SECTION:waka-->
 
 ## Last Updated 
