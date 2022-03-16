@@ -56,14 +56,14 @@ I'm Web Developer in Japan :jp:
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 March 2022 - To: 15 March 2022
+From: 09 March 2022 - To: 16 March 2022
 
-Vue.js           5 hrs 51 mins   ███████████▓░░░░░░░░░░░░░   47.11 %
-YAML             2 hrs 12 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.75 %
-Markdown         1 hr 9 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 %
-JavaScript       1 hr 1 min      ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 %
-JSON             49 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
-TypeScript       48 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
+Vue.js           5 hrs 51 mins   █████████████▒░░░░░░░░░░░   53.91 %
+YAML             1 hr 36 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.89 %
+Markdown         1 hr 9 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.61 %
+JavaScript       49 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
+JSON             40 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
+TypeScript       24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
 ```
 
 <!--END_SECTION:waka-->
