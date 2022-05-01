@@ -56,7 +56,7 @@ I'm Web Developer in Japan :jp:
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 April 2022 - To: 30 April 2022
+From: 24 April 2022 - To: 01 May 2022
 
 Vue.js       2 hrs 3 mins    ██████████████████▒░░░░░░   73.24 %
 YAML         31 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.51 %
