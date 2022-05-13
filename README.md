@@ -56,14 +56,14 @@ I'm Web Developer in Japan :jp:
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 May 2022 - To: 12 May 2022
+From: 06 May 2022 - To: 13 May 2022
 
-Markdown         1 hr 48 mins    ████████████▒░░░░░░░░░░░░   49.84 %
-HTML             44 mins         █████░░░░░░░░░░░░░░░░░░░░   20.18 %
-Vue.js           35 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.25 %
-YAML             21 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.05 %
-Jupyter          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
-tsconfig         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+Markdown         3 hrs 1 min     █████████████████▒░░░░░░░   68.76 %
+HTML             44 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.65 %
+YAML             21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 %
+JSON             11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
+GitIgnore file   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+Jupyter          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
 ```
 
 <!--END_SECTION:waka-->
