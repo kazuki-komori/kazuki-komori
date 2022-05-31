@@ -56,9 +56,9 @@ I'm Web Developer in Japan :jp:
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 May 2022 - To: 30 May 2022
+From: 24 May 2022 - To: 31 May 2022
 
-Markdown   47 mins         █████████████████████████   99.80 %
+Markdown   49 mins         █████████████████████████   99.80 %
 YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
