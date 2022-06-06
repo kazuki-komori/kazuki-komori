@@ -56,14 +56,14 @@ I'm Web Developer in Japan :jp:
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 May 2022 - To: 05 June 2022
+From: 30 May 2022 - To: 06 June 2022
 
-TypeScript      2 hrs 38 mins   ████████▒░░░░░░░░░░░░░░░░   33.98 %
-JavaScript      2 hrs 10 mins   ███████░░░░░░░░░░░░░░░░░░   27.86 %
-Markdown        1 hr 28 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.88 %
-JSON            37 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 %
-YAML            15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
-yarn.lock       15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
+TypeScript      2 hrs 38 mins   ████████░░░░░░░░░░░░░░░░░   31.81 %
+JavaScript      2 hrs 10 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.09 %
+Markdown        2 hrs           ██████░░░░░░░░░░░░░░░░░░░   24.08 %
+JSON            37 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
+YAML            15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
+yarn.lock       15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
 ```
 
 <!--END_SECTION:waka-->
