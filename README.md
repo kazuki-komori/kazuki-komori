@@ -56,9 +56,14 @@ I'm Web Developer in Japan :jp:
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 June 2022 - To: 14 June 2022
+From: 08 June 2022 - To: 15 June 2022
 
-Python   40 mins         █████████████████████████   100.00 %
+Python             40 mins         ██████████████████▒░░░░░░   73.06 %
+BibTeX             5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 %
+Bash               3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.17 %
+Text               2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+TeX                1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
+JSON               1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
 ```
 
 <!--END_SECTION:waka-->
