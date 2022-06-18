@@ -56,14 +56,14 @@ I'm Web Developer in Japan :jp:
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 June 2022 - To: 17 June 2022
+From: 11 June 2022 - To: 18 June 2022
 
-TeX                        2 hrs 23 mins   ██████████████▒░░░░░░░░░░   57.98 %
-Markdown                   37 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.06 %
-JSON                       28 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 %
-Bash                       12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
-BibTeX                     9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
-BibTeX bibliography file   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+TeX                        2 hrs 36 mins   ███████████▒░░░░░░░░░░░░░   45.56 %
+Markdown                   41 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.13 %
+JavaScript                 39 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.42 %
+JSON                       37 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.97 %
+BibTeX                     36 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.69 %
+Bash                       12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
 ```
 
 <!--END_SECTION:waka-->
