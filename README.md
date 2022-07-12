@@ -56,13 +56,12 @@ I'm Web Developer in Japan :jp:
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 July 2022 - To: 11 July 2022
+From: 05 July 2022 - To: 12 July 2022
 
-TeX          12 hrs 58 mins  ████████████████▓░░░░░░░░   66.78 %
-Vue.js       2 hrs 26 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.58 %
-TypeScript   2 hrs 26 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.57 %
-Docker       41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
-Other        19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+TeX          15 hrs 54 mins  █████████████████████░░░░   84.45 %
+TypeScript   1 hr 12 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
+Docker       41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+Other        19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
 ```
 
 <!--END_SECTION:waka-->
