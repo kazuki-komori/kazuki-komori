@@ -56,14 +56,12 @@ I'm Web Developer in Japan :jp:
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 July 2022 - To: 26 July 2022
+From: 20 July 2022 - To: 27 July 2022
 
-Vue.js       13 hrs 35 mins  ██████████████▒░░░░░░░░░░   57.00 %
-TypeScript   5 hrs 44 mins   ██████░░░░░░░░░░░░░░░░░░░   24.08 %
-TeX          3 hrs 37 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.24 %
-BibTeX       18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
-Markdown     14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
-Other        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+Vue.js       13 hrs 35 mins  █████████████████▒░░░░░░░   69.12 %
+TypeScript   5 hrs 29 mins   ███████░░░░░░░░░░░░░░░░░░   27.98 %
+Markdown     14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+Other        7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
 ```
 
 <!--END_SECTION:waka-->
