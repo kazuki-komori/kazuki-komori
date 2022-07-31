@@ -56,10 +56,9 @@ I'm Web Developer in Japan :jp:
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 July 2022 - To: 30 July 2022
+From: 24 July 2022 - To: 31 July 2022
 
-Vue.js       5 hrs 32 mins   █████████████████░░░░░░░░   68.07 %
-Other        1 hr 21 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.64 %
+Other        1 hr 22 mins    ████████████████▒░░░░░░░░   65.05 %
 ```
 
 <!--END_SECTION:waka-->
