@@ -56,9 +56,9 @@ I'm Web Developer in Japan :jp:
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 July 2022 - To: 01 August 2022
+From: 28 July 2022 - To: 04 August 2022
 
-Other    1 hr 22 mins    ███████████████████████▒░   93.48 %
+Other    1 hr 14 mins    █████████████████████▒░░░   85.77 %
 ```
 
 <!--END_SECTION:waka-->
