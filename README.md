@@ -56,14 +56,14 @@ I'm Web Developer in Japan :jp:
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 August 2022 - To: 20 August 2022
+From: 14 August 2022 - To: 21 August 2022
 
-Kotlin           1 hr 4 mins     ████████████████░░░░░░░░░   63.81 %
-Vue.js           18 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.50 %
-JSON             6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
-YAML             5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
-Markdown         3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
-Properties       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+Kotlin           1 hr 4 mins     ███████████████▓░░░░░░░░░   63.26 %
+Vue.js           18 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.34 %
+JSON             6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
+YAML             5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
+Markdown         3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
+Jupyter          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
 ```
 
 <!--END_SECTION:waka-->
