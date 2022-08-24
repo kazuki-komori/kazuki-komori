@@ -56,7 +56,7 @@ I'm Web Developer in Japan :jp:
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 August 2022 - To: 22 August 2022
+From: 16 August 2022 - To: 23 August 2022
 
 Kotlin           1 hr 4 mins     ███████████████▓░░░░░░░░░   63.26 %
 Vue.js           18 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.34 %
