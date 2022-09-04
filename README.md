@@ -56,14 +56,14 @@ I'm Web Developer in Japan :jp:
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 August 2022 - To: 02 September 2022
+From: 27 August 2022 - To: 03 September 2022
 
-TypeScript       17 hrs 45 mins  ███████████████████████▒░   93.47 %
-JSON             38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
-YAML             12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
-Bash             9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-JavaScript       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-CSS              4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+TypeScript       14 hrs 54 mins  ███████████████████████▒░   92.87 %
+JSON             38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
+YAML             12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+Bash             8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+Text             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+JavaScript       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 ```
 
 <!--END_SECTION:waka-->
