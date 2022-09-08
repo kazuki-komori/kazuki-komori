@@ -56,11 +56,11 @@ I'm Web Developer in Japan :jp:
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 August 2022 - To: 06 September 2022
+From: 31 August 2022 - To: 07 September 2022
 
-TypeScript   2 hrs 2 mins    ██████████████████████▒░░   89.25 %
-YAML         12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.77 %
-JavaScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+TypeScript   1 hr 22 mins    ██████████████████▒░░░░░░   73.19 %
+YAML         27 mins         ██████░░░░░░░░░░░░░░░░░░░   24.39 %
+JavaScript   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
 textmate     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
