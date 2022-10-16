@@ -56,7 +56,7 @@ I'm Web Developer in Japan :jp:
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 October 2022 - To: 14 October 2022
+From: 08 October 2022 - To: 15 October 2022
 
 TypeScript   2 hrs 15 mins   ████████████████▒░░░░░░░░   65.92 %
 JavaScript   33 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.56 %
