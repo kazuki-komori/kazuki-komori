@@ -56,9 +56,10 @@ I'm Web Developer in Japan :jp:
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 November 2022 - To: 21 November 2022
+From: 15 November 2022 - To: 22 November 2022
 
-YAML   37 mins         █████████████████████████   100.00 %
+YAML     37 mins         ████████████████████████░   96.35 %
+Vue.js   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
 ```
 
 <!--END_SECTION:waka-->
