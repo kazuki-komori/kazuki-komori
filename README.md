@@ -56,7 +56,11 @@ I'm Web Developer in Japan :jp:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 09 December 2022 - To: 16 December 2022
+
+Markdown   3 hrs 32 mins   ███████████████████████▓░   94.63 %
+Python     11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
+JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
