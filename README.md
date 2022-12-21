@@ -56,13 +56,14 @@ I'm Web Developer in Japan :jp:
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 December 2022 - To: 19 December 2022
+From: 13 December 2022 - To: 20 December 2022
 
-Markdown   3 hrs 32 mins   ██████████████████████▒░░   88.89 %
-Python     24 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.27 %
-YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-Docker     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Markdown        3 hrs 32 mins   ███████████████████░░░░░░   75.98 %
+Python          24 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.78 %
+YAML            21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
+JSON            11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
+Bash            4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+Other           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 ```
 
 <!--END_SECTION:waka-->
