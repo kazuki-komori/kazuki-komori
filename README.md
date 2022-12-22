@@ -56,7 +56,7 @@ I'm Web Developer in Japan :jp:
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 December 2022 - To: 20 December 2022
+From: 14 December 2022 - To: 21 December 2022
 
 Markdown        3 hrs 32 mins   ███████████████████░░░░░░   75.98 %
 Python          24 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.78 %
