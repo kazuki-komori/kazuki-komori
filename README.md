@@ -56,7 +56,7 @@ I'm Web Developer in Japan :jp:
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 January 2023 - To: 26 January 2023
+From: 20 January 2023 - To: 27 January 2023
 
 Docker     40 mins         ████████▓░░░░░░░░░░░░░░░░   34.70 %
 Bash       31 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.76 %
