@@ -56,7 +56,7 @@ I'm Web Developer in Japan :jp:
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 January 2023 - To: 02 February 2023
+From: 27 January 2023 - To: 03 February 2023
 
 TypeScript   25 mins         ██████████████▒░░░░░░░░░░   56.74 %
 Bash         15 mins         █████████░░░░░░░░░░░░░░░░   35.38 %
