@@ -56,10 +56,14 @@ I'm Web Developer in Japan :jp:
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 February 2023 - To: 24 February 2023
+From: 18 February 2023 - To: 25 February 2023
 
-Markdown   4 hrs 49 mins   █████████████████████████   99.96 %
-Docker     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Markdown     4 hrs 49 mins   ███████████████████▓░░░░░   78.16 %
+TypeScript   44 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 %
+JSON         34 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.22 %
+JavaScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
