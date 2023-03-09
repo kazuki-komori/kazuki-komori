@@ -56,14 +56,14 @@ I'm Web Developer in Japan :jp:
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 February 2023 - To: 07 March 2023
+From: 01 March 2023 - To: 08 March 2023
 
-TypeScript   23 hrs 9 mins   █████████████████████▒░░░   85.56 %
-JavaScript   1 hr 53 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
-Bash         48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
-JSON         36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
-HTML         22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
-Git Config   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+TypeScript   21 hrs 50 mins  ███████████████████████░░   92.16 %
+Bash         47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+JavaScript   45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
+JSON         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+Vue.js       5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Git Config   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:waka-->
