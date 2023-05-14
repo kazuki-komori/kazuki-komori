@@ -56,7 +56,7 @@ I'm Web Developer in Japan :jp:
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 May 2023 - To: 12 May 2023
+From: 06 May 2023 - To: 13 May 2023
 
 SQL          13 mins         ████████████▒░░░░░░░░░░░░   48.83 %
 YAML         6 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.31 %
