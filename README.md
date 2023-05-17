@@ -56,13 +56,9 @@ I'm Web Developer in Japan :jp:
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 May 2023 - To: 15 May 2023
+From: 09 May 2023 - To: 16 May 2023
 
-SQL          13 mins         ████████████▒░░░░░░░░░░░░   48.83 %
-YAML         6 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.31 %
-Go           3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.95 %
-Other        2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 %
-Docker       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
