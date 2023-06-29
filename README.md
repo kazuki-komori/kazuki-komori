@@ -56,7 +56,7 @@ I'm Web Developer in Japan :jp:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 June 2023 - To: 27 June 2023
+From: 22 June 2023 - To: 29 June 2023
 
 No activity tracked
 ```
