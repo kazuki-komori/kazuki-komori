@@ -56,10 +56,10 @@ I'm Web Developer in Japan :jp:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 July 2023 - To: 03 August 2023
+From: 28 July 2023 - To: 04 August 2023
 
-JSON    4 mins          █████████████▒░░░░░░░░░░░   53.17 %
-Bicep   3 mins          ███████████▓░░░░░░░░░░░░░   46.83 %
+Bicep   13 mins         ███████████████▓░░░░░░░░░   62.92 %
+JSON    7 mins          █████████▒░░░░░░░░░░░░░░░   37.08 %
 ```
 
 <!--END_SECTION:waka-->
