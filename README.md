@@ -56,12 +56,9 @@ I'm Web Developer in Japan :jp:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 August 2023 - To: 21 August 2023
+From: 15 August 2023 - To: 22 August 2023
 
-Python   13 mins         ████████████░░░░░░░░░░░░░   48.40 %
-JSON     9 mins          ████████▓░░░░░░░░░░░░░░░░   34.45 %
-Bash     4 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.13 %
-INI      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+JSON   9 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
